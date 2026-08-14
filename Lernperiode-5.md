@@ -17,10 +17,10 @@ Mindest 1 Zertifikat oder ein Projekt erledigen bis Ende der Periode.
 ### Planung 14.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Sich für ein Projektentscheiden
-- [ ] Mich für 2-3 Ziele Entscheiden
+- [x] Sich für ein Projektentscheiden
+- [x] Mich für 2-3 Ziele Entscheiden
 - [X] Anfangen zu arbeiten
-- [ ] Wenn noch Zeit habe einwenig
+- [] Wenn noch Zeit habe einwenig
 
 ### Planung 21.08.2024
 3 bis 5 klar messbare Arbeitspakete.
