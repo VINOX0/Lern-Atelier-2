@@ -25,9 +25,9 @@ Mindest 1 Zertifikat oder ein Projekt erledigen bis Ende der Periode.
 ### Planung 21.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] ProjektIdeen überlegen
+- [ ] Linux Fundementals
+- [ ] Anmelde für Hackerthon 
 
 ### Planung 28.08.2024
 3 bis 5 klar messbare Arbeitspakete.
