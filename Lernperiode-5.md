@@ -1,7 +1,7 @@
 - Name: Vincent Ozugha
 - Zeitraum: 14.08.2026-25.09.2026
 
-##Grob-Planung
+###Grob-Planung
 Ich möchte lernen, wie man mit Informatik Probleme löst und eigene Programme oder Anwendungen entwickelt.
 
 ### Noten
