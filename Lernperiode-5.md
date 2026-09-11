@@ -42,19 +42,23 @@ Heute habe ich mich mit Linux Fundamentals und Remote-Desktop-Verbindungen besch
 - [ ] Kapitel 4 bis 6 der Linux Fundamentals abschliessen
 - [ ] Projektdokumentation um Ziele, Meilensteine und einen groben Zeitplan erweitern
 - [X] Mindestens 10 weitere Linux-Befehle (z. B. zu Berechtigungen, Prozessen, Netzwerk) mit Beschreibung festhalten
+
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [x] Erste Struktur bzw. Ordner- und Dateiorganisation für das Projekt erstellen
+- [x] Mindestens 5 weitere Linux-Übungen erfolgreich lösen
+- [X] Mein python Snake script fertig machen
+
+### Tagesreflexion
+Heute habe ich meine Kenntnisse in Linux weiter vertieft und zusätzliche Übungen bearbeitet. Zudem habe ich die Projektdokumentation erweitert und mich intensiver mit Themen aus dem Bereich Cybersecurity beschäftigt. Durch die Recherche konnte ich neue Ideen für die Umsetzung meines Projekts sammeln. Ausserdem habe ich die Projektstruktur vorbereitet, damit die weitere Entwicklung übersichtlich erfolgen kann. Für die nächsten Arbeitstage möchte ich die Planung konkretisieren und mit der praktischen Umsetzung des Projekts beginnen.
 
 ### Planung 11.09.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [x] Heute mit Python Essentials 1 PE 1 und PE 2 fertig werden
+- [x] 2 Lektionen an meiner Projekt mit Luan arbeiten
+- [X] Theorie fertig lesen in Hack The Box
 
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
