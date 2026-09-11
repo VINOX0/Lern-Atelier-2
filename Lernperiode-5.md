@@ -39,7 +39,7 @@ Heute habe ich mich mit Linux Fundamentals und Remote-Desktop-Verbindungen besch
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Kapitel 4 bis 6 der Linux Fundamentals abschliessen
+- [x] Kapitel 4 bis 6 der Linux Fundamentals abschliessen
 - [ ] Projektdokumentation um Ziele, Meilensteine und einen groben Zeitplan erweitern
 - [X] Mindestens 10 weitere Linux-Befehle (z. B. zu Berechtigungen, Prozessen, Netzwerk) mit Beschreibung festhalten
 
