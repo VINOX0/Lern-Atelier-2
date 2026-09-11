@@ -60,6 +60,9 @@ Heute habe ich meine Kenntnisse in Linux weiter vertieft und zusätzliche Übung
 - [x] 2 Lektionen an meiner Projekt mit Luan arbeiten
 - [X] Theorie fertig lesen in Hack The Box
 
+### Tagesreflexion
+Heute habe ich Python Essentials 1 (PE1 und PE2) abgeschlossen. Zudem habe ich zwei Lektionen mit Luan an unserem Projekt gearbeitet und die Theorie in Hack The Box fertig gelesen. Dadurch konnte ich mein Wissen in Programmierung und Cybersecurity weiter ausbauen. Für die nächsten Arbeitstage möchte ich das Gelernte praktisch anwenden und weitere Fortschritte am Projekt machen.
+
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
