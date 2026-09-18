@@ -66,9 +66,12 @@ Heute habe ich Python Essentials 1 (PE1 und PE2) abgeschlossen. Zudem habe ich z
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [x] Heute mit Pyython Essentials 1 PE 1 und PE 2 fertig machen
+- [x] Projekt WordleGame abschliessen
+- [X] Computer Fundementals fertig werden
+
+### Tagesrelexion
+Heute habe ich Python Essentials 1 abgeschlossen, mein WordleGame fertiggestellt und die Computer Fundamentals beendet. Dadurch konnte ich meine Kenntnisse in Python und Informatik weiter verbessern.
 
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
