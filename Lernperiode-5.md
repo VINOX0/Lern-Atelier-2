@@ -76,6 +76,9 @@ Heute habe ich Python Essentials 1 abgeschlossen, mein WordleGame fertiggestellt
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [x] Cyber Threat Management abschliessen
+- [x] Python Kurs PE4 fertig machen
+- [X] und einen CTF in TryHackMe machen
+
+### Tagesreflexion
+Heute habe ich Cyber Threat Management abgeschlossen, den Python-Kurs PE4 fertiggestellt und einen CTF auf TryHackMe gemacht. Dabei konnte ich meine Kenntnisse in Python und Cybersecurity weiter vertiefen.
