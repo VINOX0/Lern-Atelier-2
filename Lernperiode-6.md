@@ -62,6 +62,9 @@ Tagesüberschrift eines dieser Schlüsselwörter allein auf eine Zeile:
 absence, absent, Absenz, abwesend, krank, Krankheit.
 -->
 
+Ich möchte meine Cybersecurity kenntnisse.
+
+
 ### Planung 23.10.2026
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
@@ -73,9 +76,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ISC2 Material herunterladen
-- [ ] Mich anmelden für BadenHack
-- [ ] 
+- [x] ISC2 Material herunterladen
+- [x] Mich anmelden für BadenHack
+- [x] 1 TryHackme Machine
 
 
 #### Tagesreflexion
@@ -86,7 +89,7 @@ Nicht wiederholen, was die Checkboxen schon aussagen.
 Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 -->
 
-
+Heute konnte ich meine geplanten Aufgaben erfolgreich erledigen und damit einen weiteren Schritt in meiner Weiterbildung im Bereich Cybersecurity machen. Besonders gut war, dass ich sowohl organisatorische Aufgaben als auch praktische Übungen unterbringen konnte. Die Arbeit mit TryHackMe gab mir die Möglichkeit, mein Wissen praktisch anzuwenden und neue Erfahrungen zu sammeln. Ich habe gemerkt, dass es hilfreich ist, sich konkrete Tagesziele zu setzen und diese Schritt für Schritt abzuarbeiten. Für die nächsten Tage möchte ich weiterhin auf eine gute Mischung aus Theorie und Praxis achten.
 
 
 <!--
