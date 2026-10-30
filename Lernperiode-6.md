@@ -123,6 +123,31 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 
 Heute konnte ich meine geplanten Aufgaben konzentriert bearbeiten und alle gesetzten Ziele erreichen. Besonders positiv war, dass ich Theorie und Praxis miteinander verbinden konnte. Durch die Übungen im Bereich Cybersecurity habe ich neue Kenntnisse gewonnen und bereits bekannte Inhalte vertieft. Ich habe gemerkt, dass regelmässiges Lernen in kleinen Schritten effektiver ist als lange, unstrukturierte Lerneinheiten. Für die kommenden Tage möchte ich weiterhin konsequent an meinen Fähigkeiten arbeiten und mein Wissen Schritt für Schritt ausbauen.
 
+### Planung 6.11.2026
+<!--
+Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
+Umfang: ca. 30 - 60 Minuten je Arbeitspaket
+Markieren Sie beendete Arbeitspakete mit einem x.
+
+Beispiele:
+- [ ] noch nicht erledigte Aufgabe
+- [x] erledigte Aufgabe
+-->
+
+- [x] 60 Minuten ISC2 CC Lernmaterial bearbeitet
+- [x] 1 Hack The Box abgeschlossen
+- [x] Zwei Video zu Website pentesting
+- [x] An meiner Webseite weiter arbeiten
+
+
+#### Tagesreflexion
+<!--
+Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
+und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
+Nicht wiederholen, was die Checkboxen schon aussagen.
+Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
+-->
+
 
 ## Lernperiode Reflexion
 <!--
