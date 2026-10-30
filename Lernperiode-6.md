@@ -110,7 +110,7 @@ Beispiele:
 - [x] 60 Minuten ISC2 CC Lernmaterial bearbeitet
 - [x] 1 TryHackMe-Raum abgeschlossen
 - [x] Zwei Video zu Website pentesting
-- [ ] Eine Webseite mit Vibe Coding erstellen
+- [x] Eine Webseite mit Vibe Coding erstellen
 
 
 #### Tagesreflexion
