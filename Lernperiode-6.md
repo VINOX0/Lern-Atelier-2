@@ -134,10 +134,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [x] 60 Minuten ISC2 CC Lernmaterial bearbeitet
-- [x] 1 Hack The Box abgeschlossen
-- [x] Zwei Video zu Website pentesting
-- [x] An meiner Webseite weiter arbeiten
+- [] 60 Minuten ISC2 CC Lernmaterial bearbeitet
+- [] 1 Hack The Box abgeschlossen
+- [] Zwei Video zu Website pentesting
+- [] An meiner Webseite weiter arbeiten
 
 
 #### Tagesreflexion
