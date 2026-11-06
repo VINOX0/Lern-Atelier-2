@@ -151,7 +151,7 @@ Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
 Heute konnte ich alle geplanten Aufgaben erledigen. Besonders gut lief das Arbeiten mit dem ISC2 CC Lernmaterial, da ich viele neue Inhalte zum Thema Cyber Security verstanden habe. Bei Hack The Box musste ich bei einigen Aufgaben länger überlegen als erwartet, konnte aber dadurch besser lernen, wie man Probleme systematisch löst. Für die Zukunft möchte ich weiterhin Theorie und Praxis kombinieren, da dies meinen Lernerfolg deutlich verbessert.
 
 
-### Planung 13.11.2026
+### Planung 20.11.2026
 <!--
 Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
 Umfang: ca. 30 - 60 Minuten je Arbeitspaket
