@@ -134,10 +134,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [] 60 Minuten ISC2 CC Lernmaterial bearbeitet
-- [] 1 Hack The Box abgeschlossen
-- [] Zwei Video zu Website pentesting
-- [] An meiner Webseite weiter arbeiten
+- [x] 60 Minuten ISC2 CC Lernmaterial bearbeitet
+- [x] 1 Hack The Box abgeschlossen
+- [x] Zwei Video zu Website pentesting
+- [x] An meiner Webseite weiter arbeiten
 
 
 #### Tagesreflexion
@@ -162,10 +162,10 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [x] 60 Minuten ISC2 CC Lernmaterial bearbeitet
-- [x] 60 Minuten an Ethical Hacking Cisco Course
-- [x] Overthewire.org Natas weiter kommen
-- [x] An meiner Webseite weiter arbeiten
+- [] 60 Minuten ISC2 CC Lernmaterial bearbeitet
+- [] 60 Minuten an Ethical Hacking Cisco Course
+- [] Overthewire.org Natas weiter kommen
+- [] An meiner Webseite weiter arbeiten
 
 
 #### Tagesreflexion
